@@ -1,0 +1,8 @@
+{
+  "id": "menu_controller",
+  "name": "Menu Controller",
+  "author": "Relictum",
+  "description": "Adds a Full Focus Mode and controls sidebar visibility.",
+  "version": "1.0.0",
+  "main": "menu_controller.js"
+}
