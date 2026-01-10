@@ -8,5 +8,16 @@
     "filename": "menu_controller.js",
     "url": "https://raw.githubusercontent.com/Litas-dev/Plugins/main/main/menu_controller/manifest.json",    "downloads": 0,
     "date": "2026-01-10"
+  },
+  {
+    "id": "custom_game_manager",
+    "name": "Custom Game Manager",
+    "description": "Manage multiple game clients and custom expansions.",
+    "author": "Relictum",
+    "version": "1.0.0",
+    "filename": "manager.js",
+    "url": "https://raw.githubusercontent.com/Litas-dev/Plugins/main/main/custom_game_manager/manifest.json",
+    "downloads": 0,
+    "date": "2026-01-11"
   }
 ]
