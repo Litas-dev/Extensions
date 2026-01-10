@@ -1,0 +1,8 @@
+{
+  "id": "custom_game_manager",
+  "name": "Custom Game Manager",
+  "author": "Relictum",
+  "description": "Manage multiple game clients and custom expansions.",
+  "version": "1.0.0",
+  "main": "manager.js"
+}
