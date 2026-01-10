@@ -3,7 +3,7 @@
 Welcome to the official developer documentation for the Relictum Launcher Plugin System.
 Plugins allow you to extend the launcher's functionality, add custom games, create new pages, and integrate with the operating system.
 
-## 🚀 Getting Started
+## Getting Started
 
 1.  Navigate to the `plugins/` directory in your launcher installation.
 2.  Create a new JavaScript file (e.g., `my-plugin.js`).
@@ -12,7 +12,7 @@ Plugins allow you to extend the launcher's functionality, add custom games, crea
 
 ---
 
-## 🔒 Security & Sandbox
+## Security & Sandbox
 
 Plugins run in a **sandboxed environment** to ensure user safety.
 *   **Restricted Access:** You cannot access `localStorage`, `eval`, `require`, or the full Node.js environment.
@@ -21,7 +21,7 @@ Plugins run in a **sandboxed environment** to ensure user safety.
 
 ---
 
-## 📚 API Reference
+## API Reference
 
 All functionality is exposed through the global `RelictumAPI` object.
 
