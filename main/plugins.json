@@ -1,0 +1,13 @@
+[
+  {
+    "id": "menu_controller",
+    "name": "Menu Controller",
+    "description": "Adds a Full Focus Mode and controls sidebar visibility.",
+    "author": "Relictum",
+    "version": "1.0.0",
+    "filename": "menu_controller.js",
+    "url": "https://raw.githubusercontent.com/Litas-dev/Plugins/main/plugins/menu_controller/manifest.json",
+    "downloads": 0,
+    "date": "2026-01-10"
+  }
+]
