@@ -6,7 +6,7 @@
     "author": "Relictum",
     "version": "1.0.0",
     "filename": "menu_controller.js",
-    "url": "https://raw.githubusercontent.com/Litas-dev/Plugins/main/main/menu_controller/manifest.json",    "downloads": 0,
+    "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/main/menu_controller/manifest.json",    "downloads": 0,
     "date": "2026-01-10"
   },
   {
@@ -16,7 +16,7 @@
     "author": "Relictum",
     "version": "1.0.0",
     "filename": "manager.js",
-    "url": "https://raw.githubusercontent.com/Litas-dev/Plugins/main/main/custom_game_manager/manifest.json",
+    "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/main/custom_game_manager/manifest.json",
     "downloads": 0,
     "date": "2026-01-11"
   }
