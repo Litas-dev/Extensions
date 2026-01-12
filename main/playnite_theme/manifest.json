@@ -1,0 +1,9 @@
+{
+  "id": "playnite_theme",
+  "name": "Playnite Theme",
+  "author": "Trae",
+  "description": "A Playnite-inspired theme for the launcher.",
+  "version": "1.0.0",
+  "main": "theme.js",
+  "image": "image.png"
+}
