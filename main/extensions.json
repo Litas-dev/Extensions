@@ -1,35 +1,67 @@
-[
-  {
-    "id": "menu_controller",
-    "name": "Menu Controller",
-    "description": "Applies a Steam-like UI theme across all pages via extension (no core changes). Preserves footer icons, cleans up styles on disable, and controls sidebar visibility.",
-    "author": "Relictum",
-    "version": "2.0.0",
-    "filename": "menu_controller.js",
-    "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/refs/heads/main/main/menu_controller/manifest.json",
-    "image": "image.png",
-    "date": "2026-01-12"
-  },
-  {
-    "id": "custom_game_manager",
-    "name": "Custom Game Manager",
-    "description": "Manage multiple game clients and custom expansions.",
-    "author": "Relictum",
-    "version": "1.3.1",
-    "filename": "manager.js",
-    "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/refs/heads/main/main/custom_game_manager/manifest.json",
-    "image": "image.png",
-    "date": "2026-01-11"
-  },
-  {
-    "id": "playnite_theme",
-    "name": "Playnite Theme",
-    "description": "A Playnite-inspired theme for the launcher.",
-    "author": "Relictum",
-    "version": "1.0.0",
-    "filename": "theme.js",
-    "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/refs/heads/main/main/playnite_theme/manifest.json",
-    "image": "image.png",
-    "date": "2026-01-12"
-  }
-]
+{
+  "extensions": [
+    {
+      "id": "custom_game_manager",
+      "name": "Custom Game Manager",
+      "author": "Relictum",
+      "description": "Manage multiple game clients and custom expansions.",
+      "version": "1.3.1",
+      "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/extensions/custom_game_manager/manifest.json",
+      "image": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/extensions/custom_game_manager/image.png",
+      "type": "interface",
+      "labels": ["official"],
+      "downloads": 0,
+      "date": "2026-01-16T00:00:00Z"
+    },
+    {
+      "id": "gui_overhaul",
+      "name": "Relictum GUI Overhaul",
+      "author": "Relictum",
+      "description": "Complete sidebar and dashboard visual overhaul for a cleaner UI.",
+      "version": "0.1.0",
+      "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/extensions/gui_overhaul/manifest.json",
+      "type": "overhaul",
+      "labels": ["official"],
+      "downloads": 0,
+      "date": "2026-01-16T00:00:00Z"
+    },
+    {
+      "id": "playtime_tracker",
+      "name": "Playtime Tracker",
+      "author": "Relictum",
+      "description": "Shows total playtime per game in the details view.",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/extensions/playtime_tracker/manifest.json",
+      "type": "interface",
+      "labels": ["official"],
+      "downloads": 0,
+      "date": "2026-01-16T00:00:00Z"
+    },
+    {
+      "id": "warm_blue_theme",
+      "name": "Warm Blue Theme",
+      "author": "Relictum",
+      "description": "Applies a warm blue color theme to the UI without core changes.",
+      "version": "2.0.0",
+      "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/extensions/warm_blue_theme/manifest.json",
+      "image": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/extensions/warm_blue_theme/image.png",
+      "type": "theme",
+      "labels": ["official"],
+      "downloads": 0,
+      "date": "2026-01-16T00:00:00Z"
+    },
+    {
+      "id": "warm_brown_theme",
+      "name": "Warm Brown Theme",
+      "author": "Relictum",
+      "description": "Applies a warm brown color theme across the UI.",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/extensions/warm_brown_theme/manifest.json",
+      "image": "https://raw.githubusercontent.com/Litas-dev/Extensions/main/extensions/warm_brown_theme/image.png",
+      "type": "theme",
+      "labels": ["official"],
+      "downloads": 0,
+      "date": "2026-01-16T00:00:00Z"
+    }
+  ]
+}
